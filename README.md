@@ -10,8 +10,3 @@ Written parser for given grammer for partial fulfillment of the course Automata 
   - `yacc -d parser.y`
   - `gcc lex.yy.c y.tab.c`
 - This will create the executable file in the directory.
-
-## Using the makefile
-
-- Type `make` in the shell.
-- This will create the executable file in the directory.
